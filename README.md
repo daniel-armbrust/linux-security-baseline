@@ -22,6 +22,9 @@ CIS Benchmarks documents at: https://www.cisecurity.org/
 This current version is based on this controls:
    + CIS Distribution Independent Linux - v1.1.0 12-26-2017  
 
+Tested on:
+   + Red Hat Enterprise Linux Server release 7.5 (Maipo) - 3.10.0-862.el7.x86_64
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/daniel-armbrust/linux-security-baseline/tags).
